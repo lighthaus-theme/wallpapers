@@ -11,26 +11,26 @@ A collection of [Lighthaus](https://github.com/lighthaus-theme/lighthaus) theme 
 
 
 ### Collection
-[Black]()
+[Black](https://imgur.com/a/228cjLF)
 ![black](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Black-1920x1080.jpg)
 </br>
 
-[Night]()            |  [Dawn]()
+[Night](https://imgur.com/a/mUvebg0)            |  [Dawn](https://imgur.com/a/N6z90RU)
 :-------------------------:|:-------------------------:
 ![night](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Night-1920x1080.jpg)  |  ![dawn](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Dawn-1920x1080.jpg)
 </br>
 
-[Minimal]()            |  [Ocean]()
+[Minimal](https://imgur.com/a/ZVr2fVj)            |  [Ocean](https://imgur.com/a/EUc75Va)
 :-------------------------:|:-------------------------:
 ![black](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/mini%201920x1080.jpg)  |  ![ocean](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Ocean-1920x1080.jpg)
 </br>
 
-[Fire]()            |  [Water]()
+[Fire](https://imgur.com/a/WAmLpnl)            |  [Water](https://imgur.com/a/BosNHsT)
 :-------------------------:|:-------------------------:
 ![fire](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Fire-1920x1080.jpg)  |  ![water](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Water-1920x1080.jpg)
 </br>
 
-[Earth]()            |  [Air]()
+[Earth](https://imgur.com/a/dCf4EYv)            |  [Air](https://imgur.com/a/TGkbnpy)
 :-------------------------:|:-------------------------:
 ![earth](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Earth%20-1920x1080.jpg) |  ![air](https://raw.githubusercontent.com/lighthaus-theme/wallpapers/master/src/Air-1920x1080.jpg)
 
